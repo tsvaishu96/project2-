@@ -1,0 +1,178 @@
+
+/* body{
+    background-color: #252529;
+} */
+#one{
+    word-spacing: 30px;
+    border: 1px solid #252529;;
+    height: 40px;
+    font-size: 20px;
+ background-color: #252529;;
+ color: white;
+ font-family:Arial, Helvetica, sans-serif;
+ padding-top:15px ;
+
+}
+#two{
+    background-image: url("../webproject p4/showcase.jpeg");
+   
+    min-height: 600px;
+    min-width: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    border: 1px solid black;
+    padding-top: 150px;
+    text-align: center;
+    font-size: larger;
+    line-height: 100px;
+}
+#three{
+    background-color: #252529;;
+    min-width: 500px;
+    min-height: 400px;
+    border: 1px solid black;
+    color: white;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* button{
+    background-color: red;
+    height: 50px;
+    width: 150px; */
+
+#abc{
+    background-color: red;
+    height: 50px;
+    width: 150px;
+}
+
+
+h2::before{
+    content:"🎵";
+    color:blueviolet;
+    font-size: larger;
+    
+}
+#ab{
+    font-size: 20px;
+    text-align: center;
+}
+#four{
+    background-image: url("../webproject p4/mockup1.png");
+    min-width:500px;
+    min-height:700px ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #252529;
+}
+#five{
+background-color: white;
+text-align: center;
+line-height: 40px;
+min-height: 250px;
+font-size: 15px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#six{
+    width: 150px;
+    height: 40px;
+    background-color: #252529;
+    color: white;
+}
+#seven{
+    background-position: center;
+    background-image: url("../webproject p4/mockup2.png");
+    min-width:100px;
+    min-height:700px ;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: white;
+    border-radius: 80px;
+}
+#eight{
+    background-image: url("../webproject p4/section-bg.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-width:400px;
+    min-height:700px ;
+    padding-top: 150px;
+    color: white;
+    text-align: center;
+    line-height: 70px;
+    font-size: 20px;
+}
+#nine{
+    background-image: url("../webproject p4/cards.png");
+    background-position: left;
+    min-height: 450px;
+    min-width: 350px;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: 50% 50%;
+   
+}
+#ten{
+
+
+display: inline-block;
+text-align: left;
+float: right;
+width: 600px;
+padding-top: 140px;
+
+}
+#twelven{
+    min-height: 300px;
+    min-width: 400px;
+    text-align: left;
+    font-size: larger;
+    background-color: #252529;
+    color: white;
+    line-height: 30px;
+
+}
+/* #eleven{
+    font-size: 20px;
+    text-align: center;
+    height: 50px;
+    background-color: #252529;
+    color: white;
+    padding-top: 30px;
+} */
+#thiteen{
+    list-style: none;
+    display: inline-block;
+}
+#fouteen{
+    list-style: none;
+    display: inline-block;
+}
+#fifteen{
+    list-style: none;
+    display: inline-block;
+}
+#sixteen{
+    list-style: none;
+    display: inline-block;
+
+
+}
+#apple{
+    background-color:#333;
+    min-height: 50px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 2-px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
